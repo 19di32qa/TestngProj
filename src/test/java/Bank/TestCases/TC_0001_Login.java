@@ -3,6 +3,7 @@ package Bank.TestCases;
 import Bank.PageObjects.BaseClass;
 import Bank.PageObjects.LoginPage;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class TC_0001_Login extends BaseClass {
@@ -14,5 +15,6 @@ public class TC_0001_Login extends BaseClass {
         lp.setUserName(userName);
         lp.setPassword(password);
         lp.submitClick();
+        Assert.assertEquals(driver.getTitle(),"GTPL Bank Manager HomePage");
     }
 }

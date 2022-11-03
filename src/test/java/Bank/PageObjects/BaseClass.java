@@ -10,6 +10,7 @@ public class BaseClass {
     public String baseURL = "https://demo.guru99.com/V1/index.php";
     public String userName = "mngr451715";
     public String password = "dyrYnUj";
+    public String mangerHomePage = "https://demo.guru99.com/V1/html/Managerhomepage.php";
 
 
     @BeforeClass
