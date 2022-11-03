@@ -1,0 +1,5 @@
+2022-11-03 21:24:18,823 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-03 21:24:20,873 INFO B.P.BaseClass [main] webdriver is set
+2022-11-03 21:24:20,888 INFO B.P.BaseClass [main] test
