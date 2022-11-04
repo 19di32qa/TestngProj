@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class TC_0003_LoginReset extends BaseClass {
 
-    @Test
+    @Test(groups = {"Login/logout"})
     public void resetButtonTest() {
         LoginPage lp = new LoginPage(driver);
         lp.homePage(baseURL);

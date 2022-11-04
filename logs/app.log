@@ -77,3 +77,884 @@
 2022-11-04 12:18:53,345 INFO B.P.BaseClass [main] webdriver is set
 2022-11-04 12:18:55,977 INFO B.P.BaseClass [main] test 1
 2022-11-04 12:18:56,125 INFO B.P.BaseClass [main] test 2
+2022-11-04 17:50:15,567 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 17:50:56,161 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 17:50:58,918 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 17:50:58,933 INFO B.P.BaseClass [main] test 4
+2022-11-04 17:51:02,736 INFO B.P.BaseClass [main] test 1
+2022-11-04 17:51:02,848 INFO B.P.BaseClass [main] test 2
+2022-11-04 17:54:08,017 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 17:54:10,277 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 17:54:34,263 INFO B.P.BaseClass [main] test 1
+2022-11-04 17:54:34,400 INFO B.P.BaseClass [main] test 2
+2022-11-04 17:54:35,624 INFO B.P.BaseClass [main] test 4
+2022-11-04 18:09:19,276 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 18:09:21,410 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:22:07,693 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:22:07,709 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:22:07,709 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:22:07,709 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:22:07,709 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:22:07,709 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:22:07,709 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:22:07,709 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:22:07,709 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:22:07,709 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:22:07,725 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng_login.xml
+
+2022-11-04 18:22:07,740 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+2022-11-04 18:22:07,740 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@78641d23: 0 ms
+2022-11-04 18:23:02,721 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:23:02,721 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:23:02,721 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:23:02,721 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:23:02,721 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:23:02,721 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:23:02,736 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:23:02,736 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:23:02,736 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:23:02,736 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:23:02,736 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng_login.xml
+
+2022-11-04 18:23:02,750 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+2022-11-04 18:23:02,765 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@146dfe6: 0 ms
+2022-11-04 18:25:21,540 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,556 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,556 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,556 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,556 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,556 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,556 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,556 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,556 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,572 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2022-11-04 18:25:21,572 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,572 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,603 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,634 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,650 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,665 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,686 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 21 ms.
+2022-11-04 18:25:21,689 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,689 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,689 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:25:21,689 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:25:21,696 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng_login.xml
+
+2022-11-04 18:25:21,872 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 160 ms.
+2022-11-04 18:25:24,465 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:25:29,820 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:25:29,820 INFO B.P.BaseClass [main] test
+2022-11-04 18:25:35,038 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:25:39,543 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:25:43,784 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:25:48,462 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:25:52,284 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:25:55,834 INFO B.P.BaseClass [main] test 1
+2022-11-04 18:25:55,937 INFO B.P.BaseClass [main] test 2
+2022-11-04 18:25:57,261 INFO B.P.BaseClass [main] test 4
+2022-11-04 18:25:59,431 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@6dc1dc69: 0 ms
+2022-11-04 18:27:45,915 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,931 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,931 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,931 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,931 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,931 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,931 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,931 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,946 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 15 ms.
+2022-11-04 18:27:45,946 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,946 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,946 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,946 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,946 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,946 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,946 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,946 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,946 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,946 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,946 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,946 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,946 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,962 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:45,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:46,009 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:46,024 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:46,024 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:46,024 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:46,024 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:46,024 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:27:46,040 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:27:46,040 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng_login.xml
+
+2022-11-04 18:27:46,056 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+2022-11-04 18:27:46,134 INFO B.P.BaseClass [main] test
+2022-11-04 18:27:46,164 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@3bcbb589: 0 ms
+2022-11-04 18:31:24,656 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 18:31:26,949 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:32:40,690 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,690 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,706 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,706 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,706 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,706 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,706 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,706 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,706 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,706 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,706 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,706 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,706 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,706 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,706 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,706 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,722 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,737 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,749 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,749 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,750 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,750 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,751 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,751 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,751 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,751 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,752 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,752 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,753 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,769 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,784 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,800 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 15 ms.
+2022-11-04 18:32:40,800 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,800 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,800 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,800 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:32:40,800 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:32:40,816 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng_login.xml
+
+2022-11-04 18:32:40,831 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+2022-11-04 18:32:40,909 INFO B.P.BaseClass [main] test
+2022-11-04 18:32:40,925 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@4af0df05: 0 ms
+2022-11-04 18:35:23,260 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,260 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,260 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,260 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,260 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,260 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,260 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,260 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,276 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,276 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 15 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,307 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,323 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,339 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,370 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:35:23,370 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:35:23,370 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng_login.xml
+
+2022-11-04 18:35:23,385 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+2022-11-04 18:35:25,488 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:35:31,146 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:35:31,146 INFO B.P.BaseClass [main] test
+2022-11-04 18:35:35,921 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:35:39,652 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:35:45,536 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:35:49,824 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@1f03fba0: 0 ms
+2022-11-04 18:41:47,529 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2022-11-04 18:41:47,537 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,537 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,537 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,537 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,537 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,545 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,545 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,545 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,553 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2022-11-04 18:41:47,553 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,553 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,561 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,561 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,561 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,561 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,561 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,561 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,561 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,561 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,569 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,577 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,585 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,593 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,617 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,617 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,617 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,617 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,617 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,617 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,617 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,617 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,617 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,617 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,625 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2022-11-04 18:41:47,625 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,633 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,633 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,633 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-04 18:41:47,633 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-04 18:41:47,641 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng_login.xml
+
+2022-11-04 18:41:47,657 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2022-11-04 18:41:50,015 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:41:55,298 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:41:55,306 INFO B.P.BaseClass [main] test
+2022-11-04 18:41:59,902 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:42:03,789 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:42:08,586 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 18:42:11,838 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@3291b443: 0 ms
+2022-11-04 18:42:11,870 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@6535117e: 32 ms
+2022-11-04 18:42:11,932 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@22ebccb9: 62 ms
+2022-11-04 18:42:11,932 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@5875de6a: 0 ms
+2022-11-04 18:42:11,948 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@5a8ab2: 0 ms
+2022-11-04 18:42:11,963 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2a367e93: 15 ms
+2022-11-04 18:42:11,979 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@806996: 16 ms

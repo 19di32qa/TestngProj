@@ -6,7 +6,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class TC_0005_LoginTextCheck extends BaseClass {
-    @Test
+    @Test(groups = {"Login/logout"})
     public void checkTextTest() {
         LoginPage lp = new LoginPage(driver);
         lp.homePage(baseURL);

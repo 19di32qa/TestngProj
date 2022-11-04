@@ -32,6 +32,8 @@ public class ManagerHomePage {
     public WebElement getAddCustomerLink() {return driver.findElement(addCustomerLink);}
     public WebElement getEditCustomerLink() {return driver.findElement(editCustomerLink);}
     public WebElement getDeleteCustomerLink() {return driver.findElement(deleteCustomerLink);}
+    public WebElement getNewAccountLink() {return driver.findElement(newAccountLink);}
+    public WebElement getLogOutLink() {return driver.findElement(logOutLink);}
 
     public String getAddCustomerHref() {return driver.findElement(addCustomerLink).getAttribute("href");}
     public String getEditCustomerHref() {return driver.findElement(editCustomerLink).getAttribute("href");}

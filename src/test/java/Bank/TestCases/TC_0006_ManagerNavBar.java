@@ -39,4 +39,13 @@ public class TC_0006_ManagerNavBar extends BaseClass {
         Assert.assertTrue(mp.getDeleteCustomerLink().isEnabled());
 
     }
+    @Test (dependsOnMethods = {"newCustomerLinkIsVisibleTest", "editCustomerLinkVisibleTest"})
+    public void newAccountLinkTest() {
+        ManagerHomePage mp = new ManagerHomePage(driver);
+        log.info("test 4");
+        mp.navigateToMangerPage(mp.managerPageURL);
+        Assert.assertEquals(mp.getNewAccountHref(),"https://demo.guru99.com/V1/html/addAccount.php");
+        Assert.assertTrue(mp.getNewAccountLink().isDisplayed());
+        Assert.assertTrue(mp.getNewAccountLink().isEnabled());
+    }
 }

@@ -17,14 +17,14 @@ public class BaseClass {
     public String mangerHomePage = "https://demo.guru99.com/V1/html/Managerhomepage.php";
 
 
-    @BeforeClass
+    @BeforeClass(alwaysRun = true)
     public void setUp() {
         System.setProperty("webdriver.chrome.driver","C:\\Users\\Dima\\Desktop\\TestngProject\\src\\main\\resources\\chromedriver.exe");
         driver = new ChromeDriver();
         log.info("webdriver is set");
 
     }
-    @AfterClass
+    @AfterClass(alwaysRun = true)
     public void tearDown() {
         driver.quit();
     }

@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class TC_0001_Login extends BaseClass {
 
-    @Test
+    @Test(groups = {"Login/logout"})
     public void loginTest() {
         LoginPage lp = new LoginPage(driver);
         log.info("test");

@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class TC_0004_Login_invalidPassword extends BaseClass {
 
-    @Test
+    @Test(groups = {"Login/logout"})
     public void invalidPasswordTest() {
         LoginPage lp = new LoginPage(driver);
         String invalidPassword = "failed";

@@ -3,6 +3,11 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Dima/Desktop/TestngProject">
         <classes>
+            <class name="Bank.TestCases.Logout">
+                <methods>
+                    <include name="logOutTest"/>
+                </methods>
+            </class>
             <class name="Bank.TestCases.TC_0001_Login">
                 <methods>
                     <include name="loginTest"/>
@@ -16,6 +21,23 @@
             <class name="Bank.TestCases.TC_0003_LoginReset">
                 <methods>
                     <include name="resetButtonTest"/>
+                </methods>
+            </class>
+            <class name="Bank.TestCases.TC_0004_Login_invalidPassword">
+                <methods>
+                    <include name="invalidPasswordTest"/>
+                </methods>
+            </class>
+            <class name="Bank.TestCases.TC_0005_LoginTextCheck">
+                <methods>
+                    <include name="checkTextTest"/>
+                </methods>
+            </class>
+            <class name="Bank.TestCases.TC_0006_ManagerNavBar">
+                <methods>
+                    <include name="newCustomerLinkIsVisibleTest"/>
+                    <include name="editCustomerLinkVisibleTest"/>
+                    <include name="deleteCustomerLinkVisibleTest"/>
                 </methods>
             </class>
         </classes>
