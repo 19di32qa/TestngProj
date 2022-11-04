@@ -7,6 +7,8 @@ import org.openqa.selenium.WebElement;
 
 public class LoginPage {
     WebDriver driver;
+    public String title = "GTPL Bank Home Page";
+
 
     public LoginPage(WebDriver driver) {
         this.driver = driver;
@@ -15,6 +17,7 @@ public class LoginPage {
     By password = By.name("password");
     By submitBTN = By.name("btnLogin");
     By resetBTN = By.cssSelector("[type=\"reset\"]");
+    By headerText = By.cssSelector("div .barone");
 
     public void setUserName(String string) {
         driver.findElement(userName).sendKeys(string);
@@ -36,6 +39,8 @@ public class LoginPage {
     public WebElement getPasswordField() {
         return driver.findElement(password);
     }
+    public String getHeaderText() {return driver.findElement(headerText).getText();}
+    public String getTitle() {return  driver.getTitle();}
 
 
 }

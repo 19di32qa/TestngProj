@@ -13,6 +13,11 @@
                     <include name="managerHomePageSliderTest"/>
                 </methods>
             </class>
+            <class name="Bank.TestCases.TC_0003_LoginReset">
+                <methods>
+                    <include name="resetButtonTest"/>
+                </methods>
+            </class>
         </classes>
     </test>
 </suite>

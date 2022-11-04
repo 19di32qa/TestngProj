@@ -3,3 +3,77 @@
 
 2022-11-03 21:24:20,873 INFO B.P.BaseClass [main] webdriver is set
 2022-11-03 21:24:20,888 INFO B.P.BaseClass [main] test
+2022-11-04 11:04:12,949 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 11:04:16,203 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 11:04:52,138 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 11:04:54,556 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 11:06:37,917 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 11:06:40,168 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 11:20:07,809 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 11:20:10,304 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 11:54:47,985 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 11:54:50,440 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 11:55:29,972 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 11:55:31,953 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 11:56:58,624 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 11:57:00,711 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 11:58:41,225 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 11:58:43,323 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 11:58:46,270 INFO B.P.BaseClass [main] https://demo.guru99.com/V1/html/addcustomerpage.php
+2022-11-04 12:06:30,306 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 12:06:32,482 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 12:06:35,183 INFO B.P.BaseClass [main] https://demo.guru99.com/V1/html/addcustomerpage.php
+2022-11-04 12:09:33,056 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 12:09:35,188 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 12:11:37,800 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 12:11:39,876 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 12:14:22,607 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 12:14:24,702 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 12:15:14,261 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 12:15:16,256 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 12:16:26,630 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 12:16:28,723 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 12:16:28,739 INFO B.P.BaseClass [main] test 3
+2022-11-04 12:16:52,511 INFO B.P.BaseClass [main] test 2
+2022-11-04 12:16:54,295 INFO B.P.BaseClass [main] test 1
+2022-11-04 12:18:02,911 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 12:18:05,011 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 12:18:07,813 INFO B.P.BaseClass [main] test 1
+2022-11-04 12:18:07,947 INFO B.P.BaseClass [main] test 2
+2022-11-04 12:18:08,516 INFO B.P.BaseClass [main] test 3
+2022-11-04 12:18:51,328 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 12:18:53,345 INFO B.P.BaseClass [main] webdriver is set
+2022-11-04 12:18:55,977 INFO B.P.BaseClass [main] test 1
+2022-11-04 12:18:56,125 INFO B.P.BaseClass [main] test 2
