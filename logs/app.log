@@ -958,3 +958,612 @@
 2022-11-04 18:42:11,948 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@5a8ab2: 0 ms
 2022-11-04 18:42:11,963 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2a367e93: 15 ms
 2022-11-04 18:42:11,979 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@806996: 16 ms
+2022-11-05 13:46:27,572 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-05 13:46:30,758 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 13:47:59,886 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-05 13:48:01,880 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 13:51:21,771 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,786 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,786 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,786 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,786 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,786 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,786 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,786 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,786 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,802 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2022-11-05 13:51:21,802 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,802 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,802 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,802 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,802 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,802 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,802 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,802 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,802 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,802 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,818 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,833 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,849 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,864 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,880 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 15 ms.
+2022-11-05 13:51:21,891 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2022-11-05 13:51:21,891 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,891 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,891 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:51:21,891 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:51:21,891 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 13:51:21,906 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+2022-11-05 13:51:21,922 INFO o.t.i.Utils [main] [TestRunner] Starting executor for test TestngProject with time out:2147483647 milliseconds.
+2022-11-05 13:51:24,463 INFO B.P.BaseClass [TestNG-test=TestngProject-3] webdriver is set
+2022-11-05 13:51:24,463 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 13:51:24,463 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 13:51:30,356 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 13:51:30,356 INFO B.P.BaseClass [TestNG-test=TestngProject-3] webdriver is set
+2022-11-05 13:51:30,429 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 13:51:30,429 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test
+2022-11-05 13:51:36,428 INFO B.P.BaseClass [TestNG-test=TestngProject-3] webdriver is set
+2022-11-05 13:51:45,370 INFO B.P.BaseClass [TestNG-test=TestngProject-3] test 1
+2022-11-05 13:51:45,503 INFO B.P.BaseClass [TestNG-test=TestngProject-3] test 2
+2022-11-05 13:51:46,614 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@3f270e0a: 0 ms
+2022-11-05 13:54:01,015 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,030 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,030 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,030 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,030 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,030 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,046 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,046 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,046 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,061 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2022-11-05 13:54:01,061 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,061 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,061 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,061 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,061 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,061 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,061 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,061 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,061 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,061 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,061 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,061 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,061 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,077 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,093 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,108 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,124 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,140 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,155 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 15 ms.
+2022-11-05 13:54:01,155 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,155 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,155 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,155 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-11-05 13:54:01,155 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-11-05 13:54:01,171 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 13:54:01,186 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+2022-11-05 13:54:03,408 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 13:54:29,754 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 13:54:29,754 INFO B.P.BaseClass [main] test
+2022-11-05 13:54:55,626 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 13:54:59,482 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 13:55:03,950 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 13:55:08,911 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 13:55:12,631 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 13:55:15,279 INFO B.P.BaseClass [main] test 1
+2022-11-05 13:55:15,391 INFO B.P.BaseClass [main] test 2
+2022-11-05 13:55:16,219 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@6ee99964: 0 ms
+2022-11-05 13:56:26,947 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 13:56:29,142 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 13:56:29,142 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 13:56:34,019 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 13:56:34,035 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 13:56:34,043 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test
+2022-11-05 13:56:38,968 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 13:56:39,040 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 13:56:43,412 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 13:56:47,464 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test 1
+2022-11-05 13:56:47,560 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test 2
+2022-11-05 14:02:38,794 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 14:02:41,196 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:02:41,196 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:02:44,597 WARN o.a.n.h.WebSocketHandler [AsyncHttpClient-1-6] onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+2022-11-05 14:02:45,597 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:02:45,670 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:02:45,670 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test
+2022-11-05 14:02:49,711 WARN o.a.n.h.WebSocketHandler [AsyncHttpClient-1-16] onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+2022-11-05 14:02:50,888 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:02:51,598 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:02:54,398 WARN o.a.n.h.WebSocketHandler [AsyncHttpClient-1-22] onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+2022-11-05 14:02:55,405 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:02:58,205 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test 1
+2022-11-05 14:02:58,309 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test 2
+2022-11-05 14:02:59,037 WARN o.a.n.h.WebSocketHandler [AsyncHttpClient-1-4] onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+2022-11-05 14:03:54,139 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 14:03:56,546 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:03:56,546 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:04:07,861 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:04:09,141 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:04:09,149 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test
+2022-11-05 14:04:18,080 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:04:25,803 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:04:25,884 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:04:35,172 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test 1
+2022-11-05 14:04:35,313 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test 2
+2022-11-05 14:05:57,317 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-05 14:05:59,683 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:07:51,541 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 14:07:53,815 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:07:53,815 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:07:57,877 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:07:59,000 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:07:59,000 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test
+2022-11-05 14:08:03,340 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:08:06,897 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:08:06,953 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:08:15,123 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test 1
+2022-11-05 14:08:15,211 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test 2
+2022-11-05 14:09:51,678 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 14:09:54,056 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:09:54,056 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:09:57,948 WARN o.a.n.h.WebSocketHandler [AsyncHttpClient-1-7] onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+2022-11-05 14:09:58,867 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:09:58,997 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:09:58,997 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test
+2022-11-05 14:10:03,873 WARN o.a.n.h.WebSocketHandler [AsyncHttpClient-1-16] onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.buffer.WrappedByteBuf.writeBytes(WrappedByteBuf.java:821) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+2022-11-05 14:10:05,019 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:10:05,059 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:10:28,966 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:10:41,036 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test 1
+2022-11-05 14:10:41,278 WARN o.a.n.h.WebSocketHandler [AsyncHttpClient-1-5] onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+2022-11-05 14:10:42,426 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:10:42,426 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test 2
+2022-11-05 14:10:56,239 WARN o.a.n.h.WebSocketHandler [AsyncHttpClient-1-8] onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+2022-11-05 14:11:28,510 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 14:11:30,662 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:11:46,927 WARN o.a.n.h.WebSocketHandler [AsyncHttpClient-1-4] onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+2022-11-05 14:11:47,920 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:11:47,928 INFO B.P.BaseClass [main] test
+2022-11-05 14:12:05,260 WARN o.a.n.h.WebSocketHandler [AsyncHttpClient-1-7] onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+2022-11-05 14:12:06,265 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:12:31,568 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:12:38,222 WARN o.a.n.h.WebSocketHandler [AsyncHttpClient-1-13] onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+2022-11-05 14:12:39,279 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:13:22,155 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:14:16,258 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 14:14:18,337 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:14:23,438 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:14:23,438 INFO B.P.BaseClass [main] test
+2022-11-05 14:14:28,258 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:14:31,932 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:14:36,032 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:14:40,834 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:14:44,572 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:14:47,224 INFO B.P.BaseClass [main] test 1
+2022-11-05 14:14:47,320 INFO B.P.BaseClass [main] test 2

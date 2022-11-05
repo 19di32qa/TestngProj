@@ -5,8 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
+import org.testng.annotations.*;
 
 public class BaseClass {
     public Logger log = LoggerFactory.getLogger(BaseClass.class);
@@ -26,6 +25,7 @@ public class BaseClass {
     }
     @AfterClass(alwaysRun = true)
     public void tearDown() {
+
         driver.quit();
     }
 }
