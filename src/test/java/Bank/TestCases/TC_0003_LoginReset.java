@@ -16,6 +16,7 @@ public class TC_0003_LoginReset extends BaseClass {
         lp.resetBTNClick();
         Assert.assertEquals(lp.getUserNameField().getAttribute("value"),"");
         Assert.assertEquals(lp.getPasswordField().getAttribute("value"),"");
+        lp.closeDriver();
     }
 
 

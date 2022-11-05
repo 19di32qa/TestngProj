@@ -18,6 +18,7 @@ public class TC_0004_Login_invalidPassword extends BaseClass {
         lp.submitClick();
         driver.switchTo().alert().accept();
         Assert.assertEquals(driver.getTitle(), "GTPL Bank Home Page");
+        lp.closeDriver();
     }
 
 }

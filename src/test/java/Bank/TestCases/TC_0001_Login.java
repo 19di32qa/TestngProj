@@ -18,5 +18,6 @@ public class TC_0001_Login extends BaseClass {
         lp.submitClick();
         Assert.assertEquals(driver.getTitle(),"GTPL Bank Manager HomePage");
         //log.error("error test");
+        lp.closeDriver();
     }
 }

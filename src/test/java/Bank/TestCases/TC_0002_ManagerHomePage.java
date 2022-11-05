@@ -11,5 +11,6 @@ public class TC_0002_ManagerHomePage extends BaseClass {
         ManagerHomePage mp = new ManagerHomePage(driver);
         mp.navigateToMangerPage(mangerHomePage);
         mp.checkText("Welcome To Manager's Page of GTPL Bank");
+        mp.closeDriver();
     }
 }

@@ -13,5 +13,6 @@ public class TC_0006_ManagerNavBarData extends BaseClass {
         ManagerPageNavBar mp = new ManagerPageNavBar(driver);
         driver.get(mp.basePage);
         Assert.assertTrue(mp.getListElement(string).isDisplayed());
+        mp.closeDriver();
     }
 }

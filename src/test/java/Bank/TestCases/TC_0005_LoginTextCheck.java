@@ -12,5 +12,6 @@ public class TC_0005_LoginTextCheck extends BaseClass {
         lp.homePage(baseURL);
         Assert.assertEquals(lp.getHeaderText(),"Gtpl Bank");
         Assert.assertEquals(lp.getTitle(), lp.title);
+        lp.closeDriver();
     }
 }

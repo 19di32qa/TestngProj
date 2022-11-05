@@ -1567,3 +1567,145 @@ java.net.SocketException: Connection reset
 2022-11-05 14:14:44,572 INFO B.P.BaseClass [main] webdriver is set
 2022-11-05 14:14:47,224 INFO B.P.BaseClass [main] test 1
 2022-11-05 14:14:47,320 INFO B.P.BaseClass [main] test 2
+2022-11-05 14:35:04,227 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 14:35:06,785 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:35:12,139 INFO B.P.BaseClass [main] test
+2022-11-05 14:35:17,946 INFO B.P.BaseClass [main] test 1
+2022-11-05 14:35:18,053 INFO B.P.BaseClass [main] test 2
+2022-11-05 14:35:52,280 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 14:35:54,464 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:35:58,441 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test
+2022-11-05 14:36:00,543 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test 1
+2022-11-05 14:36:00,678 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test 2
+2022-11-05 14:37:03,561 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 14:37:05,741 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:37:05,741 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:37:10,421 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:37:10,421 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test
+2022-11-05 14:37:10,436 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:37:16,430 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:37:16,478 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:37:20,526 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:37:23,952 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test 1
+2022-11-05 14:37:24,049 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test 2
+2022-11-05 14:37:51,591 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 14:37:53,908 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:37:53,908 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:38:20,320 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:38:21,396 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:38:21,396 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test
+2022-11-05 14:38:31,168 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:38:36,915 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:38:36,915 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:38:42,224 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test 1
+2022-11-05 14:38:42,304 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test 2
+2022-11-05 14:43:51,894 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-05 14:43:54,129 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:44:25,278 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 14:44:27,542 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:44:27,542 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:44:31,745 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:44:33,157 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:44:33,157 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test
+2022-11-05 14:44:37,054 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:44:37,965 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:44:41,837 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:44:45,477 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test 1
+2022-11-05 14:44:45,693 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test 2
+2022-11-05 14:50:24,281 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-05 14:50:26,450 INFO B.P.BaseClass [main] webdriver is set
+2022-11-05 14:51:17,769 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 14:51:20,231 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:51:20,231 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:51:25,267 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:51:25,327 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:51:25,327 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test
+2022-11-05 14:51:30,020 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:51:30,051 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:51:33,862 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:51:37,446 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test 1
+2022-11-05 14:51:37,603 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test 2
+2022-11-05 14:52:31,934 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 14:52:34,240 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:52:34,240 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:52:39,095 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:52:40,295 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:52:40,295 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test
+2022-11-05 14:52:44,570 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:52:45,424 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:52:49,759 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:52:55,091 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test 1
+2022-11-05 14:52:55,187 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test 2
+2022-11-05 14:52:56,533 WARN o.a.n.h.WebSocketHandler [AsyncHttpClient-1-24] onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496) [netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+2022-11-05 14:59:09,547 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 14:59:12,018 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:59:12,018 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:59:16,867 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:59:16,915 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:59:16,915 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test
+2022-11-05 14:59:21,868 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:59:21,927 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 14:59:26,018 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 14:59:29,234 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test 1
+2022-11-05 14:59:29,322 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test 2
+2022-11-05 15:02:37,968 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 15:02:40,447 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 15:02:40,447 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 15:02:45,114 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 15:02:45,130 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 15:02:45,130 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test
+2022-11-05 15:02:50,716 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 15:02:50,861 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 15:02:54,825 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 15:02:58,442 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test 1
+2022-11-05 15:02:58,557 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test 2
+2022-11-05 15:04:16,508 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\Desktop\TestngProject\testng.xml
+
+2022-11-05 15:04:18,834 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 15:04:18,834 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 15:04:23,476 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 15:04:23,982 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 15:04:23,982 INFO B.P.BaseClass [TestNG-test=TestngProject-2] test
+2022-11-05 15:04:28,506 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 15:04:29,074 INFO B.P.BaseClass [TestNG-test=TestngProject-2] webdriver is set
+2022-11-05 15:04:33,268 INFO B.P.BaseClass [TestNG-test=TestngProject-1] webdriver is set
+2022-11-05 15:04:36,238 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test 1
+2022-11-05 15:04:36,344 INFO B.P.BaseClass [TestNG-test=TestngProject-1] test 2

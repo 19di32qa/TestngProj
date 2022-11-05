@@ -12,7 +12,9 @@ public class Logout extends BaseClass {
         ManagerHomePage mp = new ManagerHomePage(driver);
         mp.navigateToMangerPage(mp.managerPageURL);
         mp.getLogOutLink().click();
-        driver.switchTo().alert().accept();
+        mp.switchToAlert();
+        //driver.switchTo().alert().accept();
         Assert.assertEquals(driver.getTitle(), "GTPL Bank Home Page");
+        mp.closeDriver();
     }
 }

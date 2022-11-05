@@ -47,5 +47,6 @@ public class TC_0006_ManagerNavBar extends BaseClass {
         Assert.assertEquals(mp.getNewAccountHref(),"https://demo.guru99.com/V1/html/addAccount.php");
         Assert.assertTrue(mp.getNewAccountLink().isDisplayed());
         Assert.assertTrue(mp.getNewAccountLink().isEnabled());
+        mp.closeDriver();
     }
 }

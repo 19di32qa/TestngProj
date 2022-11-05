@@ -9,7 +9,7 @@ import org.testng.annotations.*;
 
 public class BaseClass {
     public Logger log = LoggerFactory.getLogger(BaseClass.class);
-    public static WebDriver driver;
+    public WebDriver driver;
     public String baseURL = "https://demo.guru99.com/V1/index.php";
     public String userName = "mngr451715";
     public String password = "dyrYnUj";
@@ -23,9 +23,9 @@ public class BaseClass {
         log.info("webdriver is set");
 
     }
-    @AfterClass(alwaysRun = true)
-    public void tearDown() {
-
-        driver.quit();
-    }
+//    @AfterTest(alwaysRun = true)
+//    public void tearDown() {
+//
+//        driver.quit();
+//    }
 }

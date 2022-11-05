@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 
 
 public class LoginPage {
-    WebDriver driver;
+    WebDriver  driver;
     public String title = "GTPL Bank Home Page";
 
 
@@ -41,6 +41,7 @@ public class LoginPage {
     }
     public String getHeaderText() {return driver.findElement(headerText).getText();}
     public String getTitle() {return  driver.getTitle();}
+    public void closeDriver() {driver.quit();}
 
 
 }

@@ -23,6 +23,11 @@ public class ManagerHomePage {
     public ManagerHomePage(WebDriver driver) {
         this.driver = driver;
     }
+    public void closeDriver() {driver.quit();}
+
+    public void switchToAlert() {
+        this.driver.switchTo().alert().accept();
+    }
 
     public void navigateToMangerPage(String string) {
         driver.get(string);

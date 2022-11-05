@@ -13,6 +13,7 @@ public class ManagerPageNavBar {
 
     public String basePage = "https://demo.guru99.com/V1/html/Managerhomepage.php";
     public String baseUrl = "https://demo.guru99.com/V1/html/";
+    public void closeDriver() {driver.quit();}
 
     public WebElement getListElement(String string) {
         return driver.findElement(By.cssSelector(string));
