@@ -10,7 +10,7 @@ import org.testng.annotations.*;
 public class BaseClass {
     public Logger log = LoggerFactory.getLogger(BaseClass.class);
     public WebDriver driver;
-    public String baseURL = "https://demo.guru99.com/V1/index.php";
+    public String baseURL = "https://demo.guru99.com/v3/index.php";
     public String userName = "mngr451715";
     public String password = "dyrYnUj";
     public String mangerHomePage = "https://demo.guru99.com/V1/html/Managerhomepage.php";
