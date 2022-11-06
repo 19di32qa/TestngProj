@@ -1803,3 +1803,15 @@ java.net.SocketException: Connection reset
 2022-11-06 11:49:26,591 INFO B.P.BaseClass [main] webdriver is set
 2022-11-06 11:49:27,652 INFO B.P.BaseClass [main] test
 2022-11-06 11:49:34,325 INFO B.P.BaseClass [main] test
+2022-11-06 11:58:14,313 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-06 11:58:16,052 INFO B.P.BaseClass [main] webdriver is set
+2022-11-06 11:58:16,615 INFO B.P.BaseClass [main] test
+2022-11-06 11:58:21,634 INFO B.P.BaseClass [main] test
+2022-11-06 12:00:17,312 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dima\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-06 12:00:19,108 INFO B.P.BaseClass [main] webdriver is set
+2022-11-06 12:00:19,649 INFO B.P.BaseClass [main] test
+2022-11-06 12:00:25,521 INFO B.P.BaseClass [main] test
