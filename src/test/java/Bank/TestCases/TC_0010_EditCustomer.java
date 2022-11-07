@@ -45,6 +45,7 @@ public class TC_0010_EditCustomer extends BaseClass {
         ep.getSubmitBTN().click();
 
         Assert.assertEquals(ep.getElement(ep.city).getAttribute("value"),"Washington");
+        driver.quit();
 
     }
 }
